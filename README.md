@@ -1,1 +1,1 @@
-# Maged_HotelReservationSystem
+# HotelReservationSystem
